@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+/*font-family: 'Lobster', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+/*font-family: 'Rajdhani', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+/*font-family: 'Satisfy', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+/*font-family: 'Kalam', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+/*font-family: 'Merienda', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&display=swap');
+/*font-family: 'Shadows Into Light Two', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
+/*font-family: 'Share Tech', sans-serif;*/
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+p i {
+  margin-right: 3px;
+}
+
+
+#pageContent{
+  margin-top: 100px;
+  min-height: calc(100vh - 100px - 50px);
+  background-color: rgb(240, 255, 240);
+  color : rgb(19, 73, 19);
+  overflow-x: hidden;
+}
+

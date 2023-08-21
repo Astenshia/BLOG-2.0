@@ -1,0 +1,34 @@
+/*Le footer*/
+
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color:rgb(21, 85, 29);
+    background-color: rgb(179, 247, 202);
+    height: 50px;
+    padding: 20px;
+}
+
+footer h2{
+    font-size: 20px;
+    font-family: 'Rajdhani', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+
+}
+
+footer .icons{
+    display: flex;
+    float: right;
+}
+
+footer .icon {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 18px;
+    margin-right: 17px;
+    margin-left: 10px;
+
+}

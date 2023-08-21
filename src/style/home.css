@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
+
+.hidden {
+    opacity: 0;
+}
+
+.homepicture{
+    max-height: 500px;
+    overflow: hidden;
+    
+}
+.homepicture img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.presentation {
+    border:thick double rgb(8, 70, 34);
+    margin: 5%;
+    background-color: rgb(220, 249, 225);
+    position: relative;
+    font-size: 20px;
+    padding: 30px;
+
+}
+
+.presentation p{
+    line-height: 1.6 ;
+    color: rgb(8, 70, 34);
+    font-weight:bold;
+    margin: 1.4%;
+    text-align: justify;
+    font-family:'Share Tech', sans-serif;
+    font-size: 27px;
+
+}
+
+
+
+
+
+.presentation h6{
+    font-size: 45px;
+    font-family: 'Lobster', cursive;
+    color: rgb(8, 70, 34);
+    text-shadow: 2px 2px rgba(32, 153, 92, 0.562);
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/*Les feuilles du home*/
+.feuille-link.hidden {
+    opacity: 0;
+    transform: translateX(-100%);
+}
+
+.feuille-link.hidden.feuillelinkright {
+    transform: translateX(50%);
+}
+
+.feuille-link.hidden.feuillelinkleft {
+    transform: translateX(-50%);
+}
+
+.feuille-link {
+    opacity: 1;
+    width: fit-content;
+    transform: translateX(0);
+    transition: all .5s ease-in-out;
+}
+
+.feuilles {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100vw;
+}
+
+.feuilles .feuillelinkright{
+    display: flex;
+    align-self: flex-end;
+    flex-direction: row-reverse;
+    margin-right: 5%;
+}
+.feuilles .feuillelinkleft{
+    align-self: flex-start;
+    flex-direction: row;
+    margin-left: 5%;
+}
+
+.feuilles .feuillelinkright a:hover,
+.feuilles .feuillelinkleft a:hover {
+    background-color: rgba(32, 145, 75, 0.753);
+}
+
+.feuilles .feuillelinkright a,
+.feuilles .feuillelinkleft a {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius:60px 2px 60px 10px ;
+    text-decoration:none;
+    color:rgb(178, 240, 208);
+    text-shadow: 1px 1px 1px;
+    background-color: rgba(26, 116, 60, 0.753);
+    font-family: 'Shadows Into Light Two', cursive;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20px 80px;
+}
+
+div.feuilles .feuillelinkleft a{
+    flex-direction: row-reverse;
+}
