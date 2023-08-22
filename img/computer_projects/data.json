@@ -1,0 +1,52 @@
+[
+    {
+        "name": "PANDEMY PROJECT", 
+        "img": "pandemyproject.png", 
+        "description": "Pandemic is a board and strategy game. You and your companions are part of an elite team fighting four deadly diseases. In this cooperative game, all players play together against the game itself. Take up this exciting challenge and save humanity!",
+        "langage": "Realized in JAVA with JavaSwing tools",
+        "collaborators": "Collaboration with college students",
+        "link": "",
+        "date": "2023"
+    },
+
+    {
+        "name": "LABYRINTH", 
+        "img": "labyrinth.png", 
+        "description": "My current game project : I am trying to make a 3D randomly generated maze. A protagonist will discover a lot of secrets and maybe understand why he ended up inside...",
+        "langage": "Realized in C# with openGL libraries.",
+        "collaborators": "Collaboration with Etikun, Louvtt.",
+        "link": "https://gitlab.com/ClaireSv/labyrinth",
+        "date": "2022-2023"
+    },
+
+    {
+        "name": "BATTLESHIP", 
+        "img": "battleship.png", 
+        "description": "The classic game of battleship, where you have to find  the location of the opponent's ships to sink them. The first one to lose all his ships is the loser!",
+        "langage": "Realized in JAVA.",
+        "collaborators": "Collaboration with Louvtt.",
+        "link": "https://gitlab.com/ClaireSv/bataille-navale",
+        "date": "October 2022"
+    },
+
+    {
+        "name": "GMTK JAM 2022 - UNDICE-SICIOUS", 
+        "img": "undicisious.png", 
+        "description": "Summer 2022 game jam theme: roll the dice! With the guys, we decided to make a multidimensional dice game: you play up to 3 games at the same time, and the goal is to make a maximum of tricks, to score a maximum of points.",
+        "langage": "Realized with Godot.",
+        "collaborators": "Collaboration with Etikun, Louvtt, Aster.",
+        "link": "https://louvtt.itch.io/undicesicious",
+        "date": "July 2022"
+   },
+
+   {
+        "name": "PANDEMY SIMULATOR", 
+        "img": "pandemy.png", 
+        "description": "A simulation of different types of pandemics, based on real scientific models. You can vary different parameters depending on the model you choose, and see the population evolve!",
+        "langage": "Realized in HTML, CSS, JavaScript.",
+        "collaborators": "Collaboration with Louvtt.",
+        "link": "https://github.com/Astenshia/PANDEMY-SIMULATOR",
+        "date": "June 2022"
+  }
+
+]

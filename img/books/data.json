@@ -1,0 +1,43 @@
+[
+    {
+        "name": "ALAIN DAMASIO", 
+        "books" : 
+        [{
+            "titre": "La Horde Du Contrevent",
+            "img": "horde.jpg", 
+            "resume": "Un groupe d'élite, formé dès l'enfance à faire face, part des confins d'une terre féroce, saignée de rafales, pour aller chercher l'origine du vent. Ils sont vingt-trois, un bloc, un nœud de courage : la Horde. Ils sont pilier, ailier, traceur, aéromètre et géomètre, feuleuse et sourcière, troubadour et scribe. Ils traversent leur monde debout, à pied, en quête d'un Extrême-Amont qui fuit devant eux comme un horizon fou.",
+            "critique" : "Alain Damasio a une maîtrise parfaite de son sujet, et des moyens à mettre en œuvre pour le rendre obsédant. Il joue impeccablement sur la ponctuation et la sonorité des mots, et cela rend parfois la lecture sportive. Pour narrer son histoire, l'auteur donne la parole à différents membres de la horde, chacun pourvu d'un ton bien particulier, inspiré d'un philosophe. La texture littéraire est donc constamment mouvante, changeante, du scribe au troubadour, du traceur à l'aéromaitre, du prince à la feuleuse... Le lecteur se retrouve lui-même au sein de la Horde, à contrer le vent aux côtés des autres, à tenter d'identifier ses formes et à s'interroger sur sa philosophie de vie et sur la notion d'existence. "
+        },
+
+        {
+            "titre": "Les Furtifs",
+            "img": "furtifs.jpg", 
+            "resume": "Ils sont là, parmi nous, jamais où tu regardes, à circuler dans les angles morts de nos quotidiens. On les appelle les furtifs. Une légende ? Un fantasme ? Plutôt l’inverse : des êtres de chair et de sons, aux facultés inouïes de métamorphoses, qui nous ouvrent la possibilité précieuse, à nous autres humains, de renouer avec le vivant. En nous et hors de nous, sous toutes ses formes et de toutes nos forces.",
+            "critique": " 15 ans après La Horde Du Contrevent, Alain Damasio a, de nouveau, produit un chef d'oeuvre litéraire bravant les conventions, dans un style ardu à déchiffrer. En jouant sur les polices, les symboles, la musicalité des mots, il parvient à magnifier les moments et à transcender le lecteur. Chaque mot est travaillé, retourné ou sublimé, chaque son perfectioné, presque spiritualisé. L'auteur a apporté une poésie sans pareille aux furtifs. Il nous met face à une société en quête de repères, assez proche de la notre : la France en 2040, bouleversée par l'évolution numérique, où l'art et la liberté d'expression n'ont plus leur place. Les Furtifs soulève des questions politiques en transportant le lecteur par un mélange de genres : aventure, anticipation, amour, fantaisie, merveilleux, politique... Il vous entraine, vous élève, vous donne le vertige, vous fait monter l'adrénaline, en bondissant de personnage en personnage, de son en son, il vous fait vibrer au rythme des furtifs, il vous fait sentir VIVANT. "
+        }]
+    },
+
+    {
+        "name": "ISAAC ASIMOV", 
+        "books" : 
+        [{
+            "titre": "Le Cycle des Robots",
+            "img": "asimov.png", 
+            "resume": "Les 3 Lois de la Robotique: 1. Un robot ne peut porter atteinte à un être humain ni, restant passif, laisser cet être humain exposé au danger. 2. Un robot doit obéir aux ordres donnés par les êtres humains, sauf si de tels ordres entrent en contradiction avec la Première Loi. 3. Un robot doit protéger son existence dans la mesure où cette protection n’entre pas en contradiction avec la Première ou la Deuxième Loi.",
+            "critique" : "Alain Damasio a une maîtrise parfaite de son sujet, et des moyens à mettre en œuvre pour le rendre obsédant. Il joue impeccablement sur la ponctuation et la sonorité des mots, et cela rend parfois la lecture sportive. Pour narrer son histoire, l'auteur donne la parole à différents membres de la horde, chacun pourvu d'un ton bien particulier, inspiré d'un philosophe. La texture littéraire est donc constamment mouvante, changeante, du scribe au troubadour, du traceur à l'aéromaitre, du prince à la feuleuse... Le lecteur se retrouve lui-même au sein de la Horde, à contrer le vent aux côtés des autres, à tenter d'identifier ses formes et à s'interroger sur sa philosophie de vie et sur la notion d'existence. "
+        }
+     ]
+    },
+    
+    {
+        "name": "MAXIME CHATTAM", 
+        "books" : 
+        [{
+            "titre": "Autre Monde",
+            "img": "chattam.jpg", 
+            "resume": "",
+            "critique": "Dans cette saga complètement différente du reste de l'oeuvre de Chattam, nous suivons trois héros, dans un monde post-apocalyptique rempli de dilemmes et d'interrogations. Maxime Chattam opère ici un mélange de genres impressionnant : survival, fantasy, aventure, un côté policier avec la recherche de réponses... Il nous transporte et nous tient en haleine, les romans s'enchainent et se lisent d'une traite. L'aventure des trois camarades est gorgée de rebondissements, racontés dans un style angoissant. La mort et la peur sont omniprésentes. Les adolescents n’ont pas le temps de l’émerveillement, ils doivent tout de suite se battre pour leurs survie. L'auteur soulève une question écologique par un retour à la source, aux origines, sans perversité et sans corruption. Il fait une superbe métaphore de la société actuelle, en transformant les adultes en créatures cyniques perverties par la surconsommation et l'apât du gain. L'espoir est placé dans la pureté des liens psychologiques entre les plus jeunes, dans leur capcité à accepter l'autre sans exigences et à pardonner sans conditions. L'auteur nous invite à avoir une réelle reflexion autour de notre manière de vivre et de notre rapport aux autres, et ce, à travers une écriture très sombre. "
+        }
+     ]
+    }
+]

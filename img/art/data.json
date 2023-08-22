@@ -1,0 +1,22 @@
+[
+    {
+        "name": "LOGOS", 
+        "img": "logos.JPG", 
+        "description": "Some logos I made for different associations or groups I am part of.",
+        "link": "https://astenshia.github.io/blog/inspi.html#logos"
+    },
+
+    {
+        "name": "PAPER", 
+        "img": "paper.JPG", 
+        "description": "Traditionnal artworks on paper, with different materials such as pencils, watercolor, alchool markers.",
+        "link": "https://astenshia.github.io/blog/inspi.html#inktober"
+    },
+
+    {
+        "name": "DIGITAL", 
+        "img": "digital.JPG", 
+        "description": "Digital artworks made on an IPad with IArtbook, mostly line arts, but also some textured artworks.",
+        "link": "https://astenshia.github.io/blog/inspi.html#digital"
+    }
+]
